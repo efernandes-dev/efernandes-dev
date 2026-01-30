@@ -23,7 +23,7 @@
 ###  Languages and Technologies
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
 </a>
   <img align="right" alt="tete" src="https://i.picasion.com/pic92/6140f007bf6ada1332e704adece0d214.gif">
 </div>
@@ -34,6 +34,15 @@
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+</div>
+
+---
+
+###  Operating System
+<div style="display: inline_block"><br>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,linux"/>
 </a>
 </div>
 
